@@ -1,0 +1,35 @@
+body{
+  background-color: black;
+  color: orange;
+
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 50px;
+}
+
+a:hover{
+    color: aqua;
+}
+
+.foto {
+    width: 100vw;
+}
+
+header{
+    background-color: coral;
+}
+
+nav{display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+
+}
+.link {
+    color: orange;
+    font-size: 50px;
+}
